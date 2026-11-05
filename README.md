@@ -1,4 +1,4 @@
-Queen Bakeshop – Online Bakery Management System
+# Queen Bakeshop – Online Bakery Management System
 
 Overview:
 Queen Bakeshop is a web-based bakery application designed to provide an organised platform for presenting bakery products and managing customer interactions.
